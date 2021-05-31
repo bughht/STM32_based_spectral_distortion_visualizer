@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "windowsframe.h": "c",
+        "gui.h": "c",
+        "w25q64.h": "c",
+        "tftdisp.h": "c",
+        "touch.h": "c",
+        "lcd_drive.h": "c",
+        "tim.h": "c",
+        "dataoperation.h": "c",
+        "cstdlib": "c",
+        "xutility": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "arm_math.h": "c",
+        "fft.h": "c",
+        "math.h": "c",
+        "adc.h": "c"
+    }
+}
