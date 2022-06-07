@@ -1,12 +1,12 @@
 Load "test\\test.axf" 
-Set JLink Project File to "e:\SHU\GCJY\BIG\MDK-ARM\JLinkSettings.ini"* JLink Info: Device "STM32F407ZE" selected.
+Set JLink Project File to "e:\SHU\工程教育\GCJY\MDK-ARM\JLinkSettings.ini"* JLink Info: Device "STM32F407ZE" selected.
 
 JLink info:
 ------------
 DLL: V6.00e, compiled Aug  4 2016 09:37:38
 Firmware: J-Link V9 compiled Dec 13 2019 11:14:50
 Hardware: V9.00
-S/N : 20090906 
+S/N : 20061403 
 
 * JLink Info: Found SWD-DP with ID 0x2BA01477
 * JLink Info: Found SWD-DP with ID 0x2BA01477
@@ -26,7 +26,7 @@ ROMTableAddr = 0xE00FF000
 Target info:
 ------------
 Device: STM32F407ZETx
-VTarget = 3.327V
+VTarget = 3.325V
 State of Pins: TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 0
 Hardware-Breakpoints: 6
 Software-Breakpoints: 8192
@@ -34,4 +34,4 @@ Watchpoints:          4
 JTAG speed: 12000 kHz
 
 Erase Done.Programming Done.Verify OK.Application running ...
-Flash Load finished at 14:52:34
+Flash Load finished at 15:33:26

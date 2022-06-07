@@ -16,6 +16,7 @@
         "arm_math.h": "c",
         "fft.h": "c",
         "math.h": "c",
-        "adc.h": "c"
+        "adc.h": "c",
+        "key.h": "c"
     }
 }
